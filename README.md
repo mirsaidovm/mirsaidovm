@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mirsaidovm
-- 👀 I’m interested in programming and languages learn
+- 👀 I’m interested in programming and learning new languages
+currently intern at GermanPavilion 
+- 🌱 I’m currently learning JS and some frameworks 
+- 💞️ I’m looking to collaborate on front-end and back-end programs 
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 mirsaidovm/mirsaidovm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
