@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mirsaidovm
-- 👀 I’m interested in programming and learning new languages
+- 👋 Hi, I’m MIRSAID 
+- 👀 I’m interested in programming and learning new languages(already speak Russian , German , English and Ukrainian!!!)
 currently intern at GermanPavilion 
-- 🌱 I’m currently learning JS and some frameworks 
+- Deal with JS , HTML and other front-end stuff 
 - 💞️ I’m looking to collaborate on front-end and back-end programs 
 
 
